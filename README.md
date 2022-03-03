@@ -60,5 +60,6 @@
   * :link: [ Lucas Montano ](https://twitter.com/lucas_montano)
   * :link: [ Daniel He4rt ](https://twitter.com/danielhe4rt)
   * :link: [ Matheus Battisti ](https://www.horadecodar.com.br/author/matheus-battisti-2/)
+  * :link: [ Rafaella Ballerini ](https://twitter.com/ballerinirafa)
 
 **[⬆ volte ao topo ](#topo)**
