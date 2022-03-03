@@ -3,4 +3,4 @@
 <p align="center">Enjoy :tada:</p>
 <hr/>
 
-<h1>Discord  </h1>
+<h1>Discord Servers  </h1>
