@@ -1,7 +1,6 @@
 <h1 align="center" id="topo">Frontend Caixa de Ferramentas</h1>
-<p align="center">Some links and stuffs that always help me to build a project in UI/UX and Front-end</p>
 <p align="center">Alguns links e coisas que sempre me ajudam a construir um projeto com UX/UI e Front-end</p>
-<p align="center">Enjoy :tada:</p>
+<p align="center">Aproveita :tada:</p>
 <hr/>
 
 ## [ Discord ](https://discord.com/)
@@ -56,6 +55,7 @@
 
 ## Streamers / Youtubers / Influenciadores legais de seguir no mundo Dev
 * Coloquei o Twitter, mas por la vc pode achar as outras redes deles :
+  * :link: [ Eu ](https://twitter.com/daniellimae)
   * :link: [ Marco Bruno ](https://twitter.com/marcobrunodev)
   * :link: [ Lucas Montano ](https://twitter.com/lucas_montano)
   * :link: [ Daniel He4rt ](https://twitter.com/danielhe4rt)
