@@ -19,6 +19,15 @@
   * :link: [ Hora de Codar ](https://www.youtube.com/c/MatheusBattisti/playlists)
   * :link: [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists)
 
+
+## Sites para aprender e praticar 
+* A maioria se aplica a todas as langs :
+  * :link: [ O melhor pra Javascript ](https://learnjavascript.online/app.html)
+  * :link: [ HackerRank ](https://www.hackerrank.com/)
+  * :link: [ Beecrowd ](https://www.beecrowd.com.br/)
+  * :link: [ EN - Aprenda Assíncronismo no JS ](https://www.better.dev/asynchronous-javascript-using-async-await)
+
+
 ## Git e Github
 * Melhore seus conhecimentos em git / github :
   * :link: [ Commit Emoji ](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
