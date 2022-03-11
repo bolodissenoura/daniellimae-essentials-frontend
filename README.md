@@ -1,5 +1,5 @@
-<h1 align="center" id="topo">Frontend Caixa de Ferramentas</h1>
-<p align="center">Alguns links e coisas que sempre me ajudam a construir um projeto com UX/UI e Front-end</p>
+<h1 align="center" id="topo">Dev Caixa de Ferramentas</h1>
+<p align="center">Alguns links e coisas que sempre me ajudam a construir um projeto e estudar </p>
 <p align="center">Aproveita :tada:</p>
 <hr/>
 
