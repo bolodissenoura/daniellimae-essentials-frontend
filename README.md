@@ -54,13 +54,20 @@
   * :link: [ Color Hunt ](https://colorhunt.co/)
   * :link: [ Coolors ](https://coolors.co/)
 
+## Arrume um emprego
+* Sites e orgs com vagas quentinhas ( proibido gupy aqui ) :
+  * :link: [ ProgramaThor ](https://programathor.com.br/)
+  * :link: [ HisptersJobs ](https://hipsters.jobs/)
+  * :link: [ Glassdoor ](https://www.glassdoor.com.br/profile/login_input.htm)
+  *  :link: [ Github- Frontend ](https://github.com/frontendbr/vagas) 
 
 ## Sites para freelance
 * Infelizmente a maioria você precisa saber inglês, porém vc pode ganhar em dolar :) :
   * :link: [ GetNinjas - BR ](https://www.getninjas.com.br/)
   * :link: [ Upwork ](https://www.upwork.com/)
   * :link: [ Fiverr ](https://www.fiverr.com/login)
-  * :link: [ Fiverr ](https://www.geekhunter.com.br/)
+  * :link: [ GeekHunter ](https://www.geekhunter.com.br/)
+  * :link: [ ViUmaVaga ](https://twitter.com/ViUmaVaga)
 
 ## Streamers / Youtubers / Influenciadores legais de seguir no mundo Dev
 * Coloquei o Twitter, mas por la vc pode achar as outras redes deles :
