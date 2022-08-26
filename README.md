@@ -41,6 +41,8 @@
   * :link: [ Freepick ](https://www.freepik.com/)
   * :link: [ Pexels ](https://www.pexels.com/pt-br/)
   * :link: [ Unsplash ](https://unsplash.com/)
+    * :link: [ designstripe ](https://designstripe.com/search/illustrations?style=cheerful&page=2)
+  
 
 ## Desenhos e Animações super legais 
 * Pegue imagens free para seus projetos com esses sites :
