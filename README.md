@@ -18,6 +18,10 @@
   * :link: [ HTML / CSS - FireLabs ](https://www.firedlabs.com/)
   * :link: [ Hora de Codar ](https://www.youtube.com/c/MatheusBattisti/playlists)
   * :link: [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists)
+  
+  
+## Livros 
+  * :link: [ Repositorio com varios ](https://github.com/engenheiracoelho/engenheiracoelho/blob/master/LivrosIndicados.md)
 
 
 ## Sites para aprender e praticar 
