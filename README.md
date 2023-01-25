@@ -18,6 +18,8 @@
   * :link: [ HTML / CSS - FireLabs ](https://www.firedlabs.com/)
   * :link: [ Hora de Codar ](https://www.youtube.com/c/MatheusBattisti/playlists)
   * :link: [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists)
+  * :link: [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)
+  
   
   
 ## Livros 
