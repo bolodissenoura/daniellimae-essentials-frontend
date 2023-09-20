@@ -41,9 +41,10 @@
   * :link: [ Como commitar (en) ](https://github.com/angular/angular/blob/master/CONTRIBUTING.md)
 
 
-## Imagens Free
+## Imagens / Videos Free
 * Pegue imagens free para seus projetos com esses sites :
   * :link: [ Mockups Generator ](https://smartmockups.com/pt)
+  * :link: [ Videos free Pixabay](https://pixabay.com/pt/videos/)
   * :link: [ Freepick ](https://www.freepik.com/)
   * :link: [ Pexels ](https://www.pexels.com/pt-br/)
   * :link: [ Unsplash ](https://unsplash.com/)
